@@ -1,3 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9a1e9612-5d25-4064-8a8e-8ed39d14f6c4/deploy-status)](https://app.netlify.com/sites/sinemate/deploys)
+# cinemate
+Nuxt3 App
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -73,4 +77,3 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-# cinemate
